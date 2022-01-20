@@ -9,7 +9,7 @@ GoodReads is one of the most extensive repository of books. So for this project,
 1. Collect data from GoodReads. Here I scraped > 30K books and mainly focused on getting book synopsis, titles and genres. 
 2. Basic data cleaning and exploratory data analysis.
 3. Leveraged pre-trained embedding vectors from BERT language model.
-4. Built a classification model using logistic regression, achiving >85% accuracy and >0.8 F-scores across 20 genres.
+4. Built a classification model using fined tuned model, achiving >85% accuracy and >0.8 F-scores across 20 genres.
 
 ![Pipleline](https://github.com/cl3080/Auto-tagging-Books-Using-BERT/blob/main/Images/Pipeline.png)
 
